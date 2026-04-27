@@ -1,12 +1,8 @@
 # Dr Jamie Pike
 
-Jamie is a bioinformatician leading a Knowledge Transfer Partnership between the Earlham Institute and Tozer Seeds. He uses genomics to accelerate vegetable breeding and deliver new varieties for commercial growers. 
+Jamie is a bioinformatician interested in plant-pathogen co-evolution, modern plant breeding, and domestication. He uses genomics to accelerate vegetable breeding and deliver new varieties for commercial growers in his role as Knowledge Transfer Partnership Associate, working between the [Earlham Institute](https://www.earlham.ac.uk/) and [Tozer Seeds](https://www.tozerseeds.com/). 
 
 Jamie earned his PhD at the University of Warwick through the Waitrose Collaborative Training Partnership, where he investigated pathogen diversity and developed diagnostic tools for Fusarium wilt. Having worked at Rothamsted Research and the Eden Project, Jamie now focuses on moving academic research into industry to bolster British food security.
-
-## Core Interests
-
-Jamie is interested in the use of **genomics** and **industry-academia collaboration** to investigate **plant-pathogen co-evolution**, **modern plant breeding**, and **domestication**. He focuses on ensuring that genomic innovation contributes directly to the development of more resilient agricultural systems and long-term **food security**.
 
 ## Technical Proficiencies
 
@@ -16,6 +12,14 @@ Jamie is interested in the use of **genomics** and **industry-academia collabora
 | **Bioinformatics** | Bioconductor, Variant Calling | Assembly, Annotation | Phylogenetics |
 | **Data Engineering** | Bash, Git, Conda, Slurm (HPC) | Docker, Singularity | Nextflow | 
 | **Agronomy** | Field Trial Design | Phenotypic Modelling | — |
+
+
+| Skill Area | Focal Points | Proficiency |
+| :--- | :--- | :--- |
+| **Statistics & R** | Field trials, Mixed models, Experimental design | ● ● ● ● |
+| **Genomics** | Comparative genomics, Assembly, Variant calling | ● ● ● ● |
+| **Infrastructure** | HPC (Slurm), Nextflow, Conda, Bash | ● ● ● ○ |
+| **Development** | Python, Git, Language Models (LMs) | ● ● ○ ○ |
 
 ## The Stack
 
