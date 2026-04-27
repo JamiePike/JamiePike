@@ -11,14 +11,6 @@ Jamie earned his PhD at the University of Warwick through the Waitrose Collabora
 | **Data Engineering** | Bash, Git, Conda, Slurm (HPC) | Docker, Singularity | Nextflow | 
 | **Agronomy** | Field Trial Design | Phenotypic Modelling | — |
 
-
-| Skill Area | Focal Points | Proficiency |
-| :--- | :--- | :--- |
-| **Statistics & R** | Field trials, Mixed models, Experimental design | ● ● ● ● |
-| **Genomics** | Comparative genomics, Assembly, Variant calling | ● ● ● ● |
-| **Infrastructure** | HPC (Slurm), Nextflow, Conda, Bash | ● ● ● ○ |
-| **Development** | Python, Git, Language Models (LMs) | ● ● ○ ○ |
-
 ## The Stack
 
 * **Primary Environment:** HPC (Slurm) / Linux / Bash
