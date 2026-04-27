@@ -6,7 +6,7 @@ Jamie earned his PhD at the University of Warwick through the Waitrose Collabora
 
 | Domain | Expertise | Systems & Languages |
 | :--- | :--- | :--- |
-| **Statistics** | MET analysis, Field Trail, Experimental design, Untargeted Metabolomics | **R** (ASREML, Bioconductor, Tidyverse, Package Development) |
+| **Statistics** | MET analysis, Field Trail Design, Experimental design, Untargeted Metabolomics | **R** (ASREML, Bioconductor, Tidyverse, Package Development) |
 | **Bioinformatics** | GWAS, Variant calling, Assembly & Annotation, Phylogenetics | Bash, Linux, Python (ML/Data Science) |
 | **Computing** | Workflow orchestration, Containerisation, Version control | Nextflow, Git, Slurm (HPC), Conda, Docker/Singularity |
 | **Communication** | Reproducible research, Technical reporting, Industrial knowledge transfer | RMarkdown, Quarto, Markdown, LaTeX, Typst |
