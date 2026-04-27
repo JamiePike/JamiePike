@@ -8,7 +8,13 @@ Jamie earned his PhD at the University of Warwick (Waitrose Collaborative Traini
 > Many of my repositories are private due to ongoing commercial breeding partnerships. I am happy to discuss my methodologies and any non-commercially sensitive code.
 
 
-## Publications 
+## Publications & Works
+
+- Pike, J. (2025). *New tools for understanding and identifying Fusarium wilt*. Dissertation/Thesis, University of Warwick.
+
+- Bates HJ, Pike J, Price RJ, Jenkins S, Connell J, Legg A, Armitage A, Harrison RJ and Clarkson JP (2024) *Comparative genomics and transcriptomics reveal differences in effector complement and expression between races of Fusarium oxysporum f.sp. lactucae*. Front. Plant Sci. 15:1415534. doi: [10.3389/fpls.2024.1415534](https://doi.org/10.3389/fpls.2024.1415534)
+
+
 
 
 
