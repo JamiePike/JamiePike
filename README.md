@@ -4,16 +4,24 @@ Jamie is a bioinformatician leading a Knowledge Transfer Partnership between the
 
 Jamie earned his PhD at the University of Warwick through the Waitrose Collaborative Training Partnership, where he investigated pathogen diversity and developed diagnostic tools for Fusarium wilt. Having worked at Rothamsted Research and the Eden Project, Jamie now focuses on moving academic research into industry to bolster British food security.
 
-| Category | Skills and Tools |
-| :--- | :--- |
-| **Languages** | R (Advanced/Bioconductor), Bash/Shell scripting, Python |
-| **Computing** | High-Performance Computing (HPC), Slurm workload management |
-| **Bioinformatics** | Variant calling, genome assembly and annotation, comparative genomics|
-| **Workflows** | Nextflow, Conda, Git, Docker/Singularity |
-
 ## Core Interests
 
 Jamie is interested in the use of **genomics** and **industry-academia collaboration** to investigate **plant-pathogen co-evolution**, **modern plant breeding**, and **domestication**. He focuses on ensuring that genomic innovation contributes directly to the development of more resilient agricultural systems and long-term **food security**.
+
+## Technical Proficiencies
+
+| Domain | Expert | Proficient | Functional |
+| :--- | :--- | :--- | :--- |
+| **Statistical Computing** | **R** (Tidyverse, Mixed Models) | **Python** (Data Science) | Language Models (LMs) |
+| **Bioinformatics** | Bioconductor, Variant Calling | Assembly, Annotation | Phylogenetics |
+| **Data Engineering** | Bash, Git, Conda, Slurm (HPC) | Docker, Singularity | Nextflow | 
+| **Agronomy** | Field Trial Design | Phenotypic Modelling | — |
+
+## The Stack
+
+* **Primary Environment:** HPC (Slurm) / Linux / Bash
+* **Statistical Narrative:** RMarkdown / Quarto for reproducible field trial reporting
+* **Version Control:** Git (Heavy use of private GitHub/GitLab for industrial KTP work)
 
 ## Publications & Works
 
