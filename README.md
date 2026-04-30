@@ -21,6 +21,10 @@ Jamie also conducts phenotyping assays (field and glasshouse) and molecular work
 
 ---
 
+Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026. 
+
+---
+
 > [!IMPORTANT]
 > Many of my repositories are private due to ongoing commercial breeding partnerships. I am happy to discuss my methodologies and any non-commercially sensitive code.
 
