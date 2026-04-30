@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026.
+
 Jamie is a bioinformatician interested in plant-pathogen co-evolution, modern plant breeding, and domestication. He uses genomics to accelerate vegetable breeding and deliver new varieties for commercial growers in his role as Knowledge Transfer Partnership Associate, working between the [Earlham Institute](https://www.earlham.ac.uk/) and [Tozer Seeds](https://www.tozerseeds.com/). 
 
 Jamie earned his PhD at the University of Warwick through the Waitrose Collaborative Training Partnership, where he investigated pathogen diversity and developed diagnostic tools for Fusarium wilt. Having worked at Rothamsted Research and the Eden Project, Jamie now focuses on moving academic research into industry to bolster British food security.
@@ -21,11 +24,7 @@ Jamie also conducts phenotyping assays (field and glasshouse) and molecular work
 
 - Pike, J. (2025). *New tools for understanding and identifying Fusarium wilt*. Thesis, University of Warwick.
 
-- Bates HJ, Pike J, Price RJ, Jenkins S, Connell J, Legg A, Armitage A, Harrison RJ and Clarkson JP (2024) *Comparative genomics and transcriptomics reveal differences in effector complement and expression between races of Fusarium oxysporum f.sp. lactucae*. Front. Plant Sci. 15:1415534. doi: [10.3389/fpls.2024.1415534](https://doi.org/10.3389/fpls.2024.1415534)
-
----
-> [!NOTE]
-> Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026. 
+- Bates HJ, Pike J, Price RJ, Jenkins S, Connell J, Legg A, Armitage A, Harrison RJ and Clarkson JP (2024) *Comparative genomics and transcriptomics reveal differences in effector complement and expression between races of Fusarium oxysporum f.sp. lactucae*. Front. Plant Sci. 15:1415534. doi: [10.3389/fpls.2024.1415534](https://doi.org/10.3389/fpls.2024.1415534).
 
 
 
