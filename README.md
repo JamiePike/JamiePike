@@ -13,6 +13,10 @@ Jamie earned his PhD at the University of Warwick through the Waitrose Collabora
 
 Jamie also conducts phenotyping assays (field and glasshouse) and molecular work (e.g., KASP, DNA/Metabolite extraction), providing a solid understanding of biological data collection and downstream analysis.
 
+> [!NOTE]
+> Many of my repositories are private due to ongoing commercial breeding partnerships. I am happy to discuss my methodologies and any non-commercially sensitive code.
+
+---
 ## Publications & Works
 
 - Pike, J. (2025). *New tools for understanding and identifying Fusarium wilt*. Thesis, University of Warwick.
@@ -20,13 +24,8 @@ Jamie also conducts phenotyping assays (field and glasshouse) and molecular work
 - Bates HJ, Pike J, Price RJ, Jenkins S, Connell J, Legg A, Armitage A, Harrison RJ and Clarkson JP (2024) *Comparative genomics and transcriptomics reveal differences in effector complement and expression between races of Fusarium oxysporum f.sp. lactucae*. Front. Plant Sci. 15:1415534. doi: [10.3389/fpls.2024.1415534](https://doi.org/10.3389/fpls.2024.1415534)
 
 ---
-
-Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026. 
-
----
-
-> [!IMPORTANT]
-> Many of my repositories are private due to ongoing commercial breeding partnerships. I am happy to discuss my methodologies and any non-commercially sensitive code.
+> [!NOTE]
+> Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026. 
 
 
 
