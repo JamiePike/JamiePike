@@ -11,7 +11,7 @@ Jamie earned his PhD at the University of Warwick through the Waitrose Collabora
 | :--- | :--- | :--- |
 | **Analysis & Statistics** | MET analysis, Experimental design, Untargeted Metabolomics, Data Visualisation | **R** (ASREML, Bioconductor, Tidyverse, Package Development) |
 | **Bioinformatics** | GWAS, Variant calling, Assembly & Annotation, Phylogenetics, Comparative Genomics | Bash, Linux, Python (ML/Data Science) |
-| **Computing** | Workflow orchestration, Containerisation, Version control | Nextflow, Git, Slurm (HPC), Conda, Docker/Singularity |
+| **Computing** | Workflow orchestration, Containerisation, Version control | Snakemake, Git, Slurm (HPC), Conda, Docker/Singularity |
 | **Communication** | Reproducible research, Technical reporting, Industrial knowledge transfer | RMarkdown, Quarto, Markdown, LaTeX, Typst |
 
 Jamie also conducts phenotyping assays (field and glasshouse) and molecular work (e.g., KASP, DNA/Metabolite extraction), providing a solid understanding of biological data collection and downstream analysis.
