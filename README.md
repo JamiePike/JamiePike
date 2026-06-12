@@ -3,7 +3,7 @@
 
 Jamie is a bioinformatician interested in plant-pathogen co-evolution, modern plant breeding, and domestication. He uses genomics to accelerate vegetable breeding and deliver new varieties for commercial growers in his role as Knowledge Transfer Partnership Associate, working between the [Earlham Institute](https://www.earlham.ac.uk/) and [Tozer Seeds](https://www.tozerseeds.com/). 
 
-Jamie earned his PhD at the University of Warwick through the Waitrose Collaborative Training Partnership, where he investigated pathogen diversity and developed diagnostic tools for Fusarium wilt. Having worked at Rothamsted Research and the Eden Project, Jamie now focuses on moving academic research into industry to bolster British food security.
+Jamie earned his PhD at the University of Warwick through the Waitrose Collaborative Training Partnership, where he investigated pathogen diversity and developed diagnostic tools for Fusarium wilt. With a background Rothamsted Research and the Eden Project, Jamie now focuses on moving academic research into industry to support British growing.
 
 ## Technical Profile
 
