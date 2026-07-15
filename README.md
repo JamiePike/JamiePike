@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > Jamie will be a supporting speaker for the Society of Chemical Industry's [Sydney Andrew Medal Lecture](https://www.soci.org/events/agrisciences-group/2026/sydney-andrew-medal-lecture) on Wednesday 30 September 2026.
+> Jamie will be taking part in the [REAP Conference 2026](https://www.agri-tech-e.co.uk/civicrm/event/info/?reset=1&id=27319#Speakers) as part of the Research Into Practice session on the 4th November 2026. 
 
 Jamie is a bioinformatician interested in plant-pathogen co-evolution, modern plant breeding, and domestication. He uses genomics to accelerate vegetable breeding and deliver new varieties for commercial growers in his role as Knowledge Transfer Partnership Associate, working between the [Earlham Institute](https://www.earlham.ac.uk/) and [Tozer Seeds](https://www.tozerseeds.com/). 
 
